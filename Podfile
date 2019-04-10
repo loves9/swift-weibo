@@ -4,5 +4,5 @@ use_frameworks!
 
 pod 'AFNetworking', '~> 3.0'
 
-target :FSWeiBo do
+target :SwiftClient do
 end

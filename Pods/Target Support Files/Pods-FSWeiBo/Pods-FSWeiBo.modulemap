@@ -1,6 +1,0 @@
-framework module Pods_FSWeiBo {
-  umbrella header "Pods-FSWeiBo-umbrella.h"
-
-  export *
-  module * { export * }
-}
